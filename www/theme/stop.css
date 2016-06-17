@@ -1,0 +1,38 @@
+
+body {
+	font-family: arial;
+}
+
+div#banner,h1.banner {
+   font-size: 3em;
+   text-align: right;
+   margin-top: 200px;
+   margin-bottom: 0;
+}
+
+h1.banner {
+  font-weight: normal;
+}
+
+p#byline {
+   font-style: italic;
+   font-size: 1em;
+   text-align: right;
+   margin: 0;
+}
+
+div#contact, div#contact ul {
+   text-align:right;
+   list-style-type: none;
+}
+
+div#footer {
+   position: absolute;	
+   top: 600px;
+   right: 1em;
+   text-align: right;
+}
+
+h1 {
+   text-align: right;
+}
